@@ -49,5 +49,15 @@ section{
     display: flex;
     align-items: center;
     background: url() ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.main h2{
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+    
 }
 
